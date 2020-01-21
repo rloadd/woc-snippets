@@ -1,5 +1,8 @@
 # woc-snippets
 
+WhatsOnChain API call examples. Visit https://developers.whatsonchain.com/ for the full list of API calls available.
+
+
 ## Install
 
 After clone this repo, just do:
