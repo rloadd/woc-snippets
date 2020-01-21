@@ -1,0 +1,23 @@
+{
+  "name": "woc_snippets",
+  "version": "1.0.0",
+  "description": "## Install After clone this repo, just do:",
+  "main": "tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rloadd/woc_snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rloadd/woc_snippets/issues"
+  },
+  "homepage": "https://github.com/rloadd/woc_snippets#readme",
+  "dependencies": {
+    "bl": "^4.0.0",
+    "https": "^1.0.0"
+  }
+}
